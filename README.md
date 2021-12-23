@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shenmuxing from China
-- 🌱 I’m currently learning python and Data Science
+- 🌱 Julia ,python and my stars
 - 💞️ I’m a student from Xi'an Jiaotong Uniervisity
 - 📫 How to reach me:My wechat id is qq2635318193;
 - Welcome, my dear friend.
