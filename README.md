@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shenmuxing from China,a student from Xi'an Jiaotong Uniervisity.
 - 💞️ I love Julia ,python and my stars in sky.
-- 📫 How to reach me:My wechat id is qq2635318193 
+- 📫 How to reach me:My wechat id is Shen_muxing 
 - 🌱 You can also visit my [blog](https://shenmuxing.github.io):
 - Welcome, my dear friend.
 
