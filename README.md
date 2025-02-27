@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @shenmuxing from China
-- 💞️ I love Julia, Python and Stars.
+Sought out are they by all that have pleasure therein.
+
+凡乐之嗜，皆必考察。
+
 
 <!---
 shenmuxing/shenmuxing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
